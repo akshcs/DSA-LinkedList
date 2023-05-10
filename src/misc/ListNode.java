@@ -1,4 +1,4 @@
-package LinkedListPart1;
+package misc;
 
 import java.util.Objects;
 

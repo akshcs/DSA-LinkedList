@@ -1,4 +1,4 @@
-package LinkedListPart1;
+package LinkedListPart2;
 
 import java.util.Objects;
 
